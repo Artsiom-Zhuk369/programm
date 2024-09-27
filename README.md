@@ -3,7 +3,7 @@
         <title>Слесарьтехника</title>
     </head>
     <body>
-        <p align="center"><font size="1000" color="cyan" face="Arial">Тема2: Измерение, средство измерений</font></p>
+        <p align="center"><font size="1000" color="cyan" face="Arial">Тема1: Измерение, средство измерений</font></p>
         <style>
            body{
             background:rgb(111, 128, 51);
